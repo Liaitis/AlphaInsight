@@ -1,4 +1,6 @@
 # AlphaInsight
+<img width="1536" height="885" alt="copy" src="https://github.com/user-attachments/assets/982e8bcf-8449-45d3-838a-aa9bbdaf5b0c" />
+
 
 ### AI-Powered Multi-Agent Financial Research Platform
 
