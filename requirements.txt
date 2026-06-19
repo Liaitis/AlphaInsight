@@ -1,0 +1,17 @@
+# AlphaInsight — Python dependencies
+# Install with: pip install -r requirements.txt
+
+# ── Core data ─────────────────────────────────────────────────────────────
+yfinance>=0.2.40          # Yahoo Finance market data
+pandas>=2.0.0             # DataFrame operations
+requests>=2.31.0          # HTTP client (RSS news feed)
+
+# ── Gemini AI ─────────────────────────────────────────────────────────────
+google-generativeai>=0.7.0  # Gemini multi-agent pipeline
+
+# ── Dashboard ─────────────────────────────────────────────────────────────
+streamlit>=1.35.0         # Web dashboard
+plotly>=5.20.0            # Interactive charts
+
+# ── Environment ───────────────────────────────────────────────────────────
+python-dotenv>=1.0.0      # Load GOOGLE_API_KEY from .env file
