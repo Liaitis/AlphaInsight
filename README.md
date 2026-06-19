@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 Overview
+## Overview
 
 AlphaInsight is a **production-grade financial analysis platform** that combines:
 
@@ -26,27 +26,27 @@ The platform orchestrates three specialized AI agents:
 
 ---
 
-## ✨ Features
+## Features
 
 ### Core Capabilities
-- 🔍 **Universal Asset Coverage**: US Equities, Indian Equities (NSE/BSE), ETFs, Cryptocurrencies, Global Indices
-- 🤖 **AI-Powered Analysis**: Gemini 2.5 Flash with financial reasoning
-- 📊 **Dual Scoring System**: AI Score + Rule-Based Cross-Validation
-- 📈 **Interactive Visualizations**: Candlestick charts with volume overlay
-- 📰 **News Intelligence**: Real-time headlines with sentiment analysis
-- 📄 **Professional Reports**: Markdown-formatted investment memos with export
+- **Universal Asset Coverage**: US Equities, Indian Equities (NSE/BSE), ETFs, Cryptocurrencies, Global Indices
+- **AI-Powered Analysis**: Gemini 2.5 Flash with financial reasoning
+- **Dual Scoring System**: AI Score + Rule-Based Cross-Validation
+- **Interactive Visualizations**: Candlestick charts with volume overlay
+- **News Intelligence**: Real-time headlines with sentiment analysis
+- **Professional Reports**: Markdown-formatted investment memos with export
 
 ### Dashboard Modules
 | Tab | Functionality |
 |-----|---------------|
-| 📄 **Investment Memo** | Full narrative report written by Gemini |
-| 📊 **Financial Analysis** | Valuation, profitability metrics, score comparison |
-| 📰 **News Intelligence** | Live headlines with sentiment aggregation |
-| 📈 **Technical View** | Price levels, risk metrics, momentum indicators |
+| **Investment Memo** | Full narrative report written by Gemini |
+| **Financial Analysis** | Valuation, profitability metrics, score comparison |
+| **News Intelligence** | Live headlines with sentiment aggregation |
+| **Technical View** | Price levels, risk metrics, momentum indicators |
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Component | Technology |
 |-----------|------------|
@@ -59,7 +59,7 @@ The platform orchestrates three specialized AI agents:
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ### Prerequisites
 - Python 3.8 or higher
