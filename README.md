@@ -11,7 +11,7 @@
 
 ---
 
-## Overview
+## Overview:
 
 AlphaInsight is a **production-grade financial analysis platform** that combines:
 
@@ -28,7 +28,7 @@ The platform orchestrates three specialized AI agents:
 
 ---
 
-## Features
+## Features:
 
 ### Core Capabilities
 - **Universal Asset Coverage**: US Equities, Indian Equities (NSE/BSE), ETFs, Cryptocurrencies, Global Indices
@@ -38,7 +38,7 @@ The platform orchestrates three specialized AI agents:
 - **News Intelligence**: Real-time headlines with sentiment analysis
 - **Professional Reports**: Markdown-formatted investment memos with export
 
-### Dashboard Modules
+### Dashboard Modules:
 | Tab | Functionality |
 |-----|---------------|
 | **Investment Memo** | Full narrative report written by Gemini |
@@ -48,7 +48,7 @@ The platform orchestrates three specialized AI agents:
 
 ---
 
-##  Tech Stack
+##  Tech Stack:
 
 | Component | Technology |
 |-----------|------------|
@@ -61,7 +61,7 @@ The platform orchestrates three specialized AI agents:
 
 ---
 
-##  Installation
+##  Installation:
 
 ### Prerequisites
 - Python 3.8 or higher
